@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://haruto0828.github.io/claria-design/sitemap.xml
